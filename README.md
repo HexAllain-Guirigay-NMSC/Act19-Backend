@@ -100,4 +100,4 @@ http://localhost:5000/api/test-db
 
 ### 👨‍💻 Author
 
-HexAllain Guirigay
+Hex Allain Guirigay
